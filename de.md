@@ -3,12 +3,12 @@
 title: Markdown mit Visual Studio Code und Pandoc
 author: IceDynamix
 date: "2020-11-23"
-lang: de
-geometry: margin=3cm
-toc: true
-numbersections: true
-papersize: a4
 documentclass: article
+lang: de
+geometry: margin=3cm # verändert die Randgröße
+toc: true # erstellt ein Inhaltsverzeichnis
+numbersections: true # generiert Kapitelnummern
+papersize: a4
 ---
 
 # Markdown
@@ -244,8 +244,12 @@ Anfang bemerkt:
 title: Markdown mit Visual Studio Code und Pandoc
 author: IceDynamix
 date: "2020-11-23"
+documentclass: article
 lang: de
-geometry: margin=3cm
+geometry: margin=3cm # verändert die Randgröße
+toc: true # erstellt ein Inhaltsverzeichnis
+numbersections: true # generiert Kapitelnummern
+papersize: a4
 ---
 ```
 
